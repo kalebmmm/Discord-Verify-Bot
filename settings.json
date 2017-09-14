@@ -1,0 +1,8 @@
+{
+    "id": "discord app id",
+    "secret": "discord app icon",
+    "redirect": "discord app callback",
+    "cookie-secret": "secret for encrypting http sessions",
+    "recaptcha-key": "google recaptcha key",
+    "recaptcha-secret": "googld recaptcha secret"
+}
